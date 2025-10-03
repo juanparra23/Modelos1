@@ -1,6 +1,6 @@
 # Integrantes_Entrega#1
 
-Claudia Janeth Barreto Martinez --  -- Ingenieria de Sistemas
+Claudia Janeth Barreto Martinez -- 1118122375 -- Ingenieria de Sistemas
 
 Crisitian Daniel Lizarazo Camaño -- 1066598316 -- Ingenieria de Sistemas
 
